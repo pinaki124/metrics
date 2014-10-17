@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-# This perl script will get the machine statistics from the Server hosting Artifactory for monitoring.
+# This perl script will get the Artifactory application specific statistics from the Server hosting Artifactory for monitoring.
 #
 
 use strict ;
